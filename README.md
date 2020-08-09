@@ -1,2 +1,2 @@
 # Machine-Learning-Project-Library
-Here are my machine learning projects.
+Here are some of my machine learning projects.
