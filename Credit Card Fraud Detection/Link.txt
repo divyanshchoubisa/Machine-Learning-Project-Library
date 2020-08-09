@@ -1,0 +1,2 @@
+The data used from this project was taken from kaggle you can get the data from the following kaggle link:
+https://www.kaggle.com/mlg-ulb/creditcardfraud
